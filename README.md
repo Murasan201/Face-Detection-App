@@ -35,5 +35,5 @@ pip install opencv-python pillow
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
-Your Name
+For any inquiries, please visit [murasan-net.com](https://murasan-net.com/).
 
